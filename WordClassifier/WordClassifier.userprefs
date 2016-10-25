@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{464F8364-2CAB-4F19-B509-718F902A98FD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WordClassifier/Program.cs">
+    <Files>
+      <File FileName="WordClassifier/Program.cs" Line="9" Column="121" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WordClassifier PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
